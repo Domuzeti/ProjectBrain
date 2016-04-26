@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_stude.png",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stude.png"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_stude.png",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stude.png"
+    }
+]

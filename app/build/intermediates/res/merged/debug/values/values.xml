@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="logo">120dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="addTheme">Add</string>
+    <string name="app_name">TheBrain</string>
+    <string name="butAddElement">Add</string>
+    <string name="butCancel">Cancel</string>
+    <string name="butDelElement">Delete</string>
+    <string name="butDelTheme">Delete</string>
+    <string name="butEditElement">Edit</string>
+    <string name="butEditTheme">Edit</string>
+    <string name="butSet">Settings</string>
+    <string name="butStartTheme">Start</string>
+    <string name="butTheme">Lists</string>
+    <string name="butValid">Ok</string>
+    <string name="rbArial">Arial</string>
+    <string name="rbBlack">Black</string>
+    <string name="rbBlue">Blue</string>
+    <string name="rbDefinitionTheme">Definition -> Word</string>
+    <string name="rbRed">Red</string>
+    <string name="rbThemeDefinition">Word -> Definition</string>
+    <string name="rbTimes">Times New Roman</string>
+    <string name="rbWhite">White</string>
+    <string name="swNightMode">Night Mode</string>
+    <string name="themeTitle">Lists :</string>
+    <string name="title_activity_add_list">AddList</string>
+    <string name="title_activity_add_word">AddWord</string>
+    <string name="title_activity_list_management">ListManagement</string>
+    <string name="title_activity_lists_management">ListsManagement</string>
+    <string name="title_activity_start">Start</string>
+    <string name="title_activity_test">Test</string>
+    <string name="tvColor">Color</string>
+    <string name="tvElement">Word :</string>
+    <string name="tvElementDef">Description :</string>
+    <string name="tvFont">Font</string>
+    <string name="tvGameMode">Game Mode</string>
+    <string name="tvSettings">Settings</string>
+    <string name="tvTheme">List name :</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

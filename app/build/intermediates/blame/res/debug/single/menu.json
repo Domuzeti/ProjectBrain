@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_list.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\add_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_management.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\list_management.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_list.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\add_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_management.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\list_management.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\start.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_word.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\add_word.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_word.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\add_word.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lists_management.xml",
+        "source": "D:\\WorkSpace\\ProjectBrain\\app\\src\\main\\res\\menu\\lists_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lists_management.xml",
+        "source": "C:\\Users\\Youss\\AndroidStudioProjects\\ProjectBrain\\app\\src\\main\\res\\menu\\lists_management.xml"
+    }
+]
